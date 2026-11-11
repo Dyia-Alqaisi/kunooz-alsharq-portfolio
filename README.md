@@ -1,5 +1,7 @@
 # Kunooz Al-Sharq Jewellery — Portfolio
 
+**Live:** https://dyia-alqaisi.github.io/kunooz-alsharq-portfolio/
+
 Cinematic scroll portfolio for **مجوهرات كنوز الشرق** (Kunooz Al-Sharq Jewellery), Marka Al-Shamaliya, Amman, Jordan.
 
 A 3D gold ring, inspired by the shop's logo, sits in the hero and follows the visitor down the page, turning and moving with each section.
